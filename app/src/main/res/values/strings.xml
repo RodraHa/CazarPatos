@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Cazar Patos</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="buttonLoginText">LOGIN</string>
+    <string name="textViewContent">Hello Android\n</string>
 </resources>
